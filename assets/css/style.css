@@ -12,6 +12,15 @@ textarea {
   padding: 10px;
 }
 
+.header1 {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+
+
 .description {
   white-space: pre-wrap;
 }
@@ -57,3 +66,11 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+.footer {
+  font-size: .5rem;
+  text-align: center;
+  padding: 24px;
+  color: black;
+}
+
